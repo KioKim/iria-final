@@ -1,0 +1,6 @@
+{
+  "appId": "com.kio.iria",
+  "appName": "Iria",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
